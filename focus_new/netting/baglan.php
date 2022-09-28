@@ -2,7 +2,7 @@
 
 try
 {
-    $conn=new PDO("mysql:host=localhost;dbname=lotus","root","1"); 
+    $conn=new PDO("mysql:host=localhost;dbname=lotus","root",""); 
 }
 catch(PDOException $e)
 {
