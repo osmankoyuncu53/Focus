@@ -12,7 +12,7 @@
                             <div class="d-inline-flex">
                                 <p class="m-0"><a href="">Anasayfa</a></p>
                                 <p class="m-0 px-2">-</p>
-                                <p class="m-0">Urunler</p>f
+                                <p class="m-0">Urunler</p>
                             </div>
                     </div>
                 </div>
